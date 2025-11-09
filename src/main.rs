@@ -1,3 +1,6 @@
+mod day01;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Uruchamiam zadanie 1:");
+    day01::run();
 }
